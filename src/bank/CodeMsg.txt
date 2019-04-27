@@ -1,0 +1,5 @@
+420 The requested resource does not support one or more of the given parameters.
+404 No card found./Not match.
+402 Insufficient balance.
+200 OK/Success.
+500 Server error./System is busy now, please try again later.
